@@ -45,7 +45,6 @@ header {
 
 /* WALID */
 .walid {
-  background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 22.8rem;
   position: absolute;
@@ -53,7 +52,6 @@ header {
   margin-top: 4rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
-  padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
 .scroll__down {
@@ -68,13 +66,22 @@ header {
 /* MEDIA QUERIES MD */
 @media screen and (max-width: 1024px) {
   header {
-    height: 90vh;
+    height: 100vh;
+    padding-top: 1rem;
   }
 }
 
 @media screen and (max-width: 600px) {
   header {
     height: 100vh;
+    padding-top: 4rem;
+  }
+
+  .walid {
+    width: 18rem;
+    height: 18.8rem;
+    left: calc(50% - 9rem);
+    margin-top: 8rem;
   }
 
   .header__socials,
