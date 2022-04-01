@@ -104,6 +104,14 @@ const Experience = () => {
               </div>
             </article>
 
+            <article className="experience__details">
+              <BsCheckLg className='experience__details-icon' />
+              <div>
+                <h4>Python</h4>
+                <small className='text-light'>Basique</small>
+              </div>
+            </article>
+
           </div>
         </div>
       </div>

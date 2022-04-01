@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Récemment sorti d'un BAC+2 en développeur web. Je souhaite continuer mes études sur un BAC+3 en data analyst, avec le même organisme, OpenClassrooms.<br />
+            Récemment sorti d'un BAC+2 en développeur web. Je vais poursuivre mes études sur un BAC+3 en data analyst, avec le même organisme, OpenClassrooms.<br />
             Ayant une certaine capacité d'adaptation, ainsi qu'un bon sens de l'organisation, je peux facilement m'intégrer à une équipe et travailler avec.
           </p>
           <p>
