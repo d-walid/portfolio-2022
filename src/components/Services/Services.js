@@ -23,7 +23,7 @@ const Services = () => {
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
-              <p>Création et intégration de maquettes de A à Z</p>
+              <p>Création et intégration de maquettes</p>
             </li>
 
             <li>
@@ -58,12 +58,12 @@ const Services = () => {
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
-              <p>Amélioration de l'accéssibilité et SEO</p>
+              <p>Compétences en accéssibilité et SEO</p>
             </li>
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
-              <p>Maintien et amélioration de bases de données</p>
+              <p>Entretien de bases de données</p>
             </li>
 
           </ul>
@@ -78,22 +78,22 @@ const Services = () => {
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
-              <p>Gestion et pilotage de projets associatifs par le passé (80+ membres)</p>
+              <p>Gestion et pilotage de projets associatifs</p>
             </li>
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
-              <p>Scrum Master sur différents projets liés au développement</p>
+              <p>Ancien DRH d'asso de +80 membres</p>
+            </li>
+
+            <li>
+              <HiBadgeCheck className="service__list-icon" />
+              <p>Scrum Master sur différents projets</p>
             </li>
 
             <li>
               <HiBadgeCheck className="service__list-icon" />
               <p>Président d'association</p>
-            </li>
-
-            <li>
-              <HiBadgeCheck className="service__list-icon" />
-              <p>A l'aise en relationnel</p>
             </li>
 
           </ul>
